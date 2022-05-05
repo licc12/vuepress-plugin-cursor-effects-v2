@@ -55,3 +55,4 @@ module.exports = {
 ## Thanks
 
 -  [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/cursor-effects.js)
+-  [vuepress-plugin-cursor-effects](https://github.com/moefyit/vuepress-plugin-cursor-effects)
