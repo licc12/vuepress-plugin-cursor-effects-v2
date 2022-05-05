@@ -1,0 +1,32 @@
+{
+  "name": "vuepress-plugin-cursor-effects-v2",
+  "version": "1.0.0",
+  "description": "Add a cute click effect to your mouse in your vuepress!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/licc12/vuepress-plugin-cursor-effects-v2.git"
+  },
+  "keywords": [
+    "vuepress",
+    "vuepress v2.0.0+",
+    "plugin",
+    "cursor",
+    "effects"
+  ],
+  "files": [
+    "index.js",
+    "lib/",
+    "package.json",
+    "README.md"
+  ],
+  "author": "tianyake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/licc12/vuepress-plugin-cursor-effects-v2/issues"
+  },
+  "homepage": "https://github.com/licc12/vuepress-plugin-cursor-effects-v2#readme",
+  "dependencies": {
+    "@moefy-canvas/theme-popper": "^0.3.0"
+  }
+}
