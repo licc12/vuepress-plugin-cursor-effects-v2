@@ -17,7 +17,7 @@
 
 ## Dependencies vuepress version
 
-vuepress version >=v2.0.0+
+vuepress version >=v2.0.0
 
 ## Install
 
