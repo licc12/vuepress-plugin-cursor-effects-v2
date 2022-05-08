@@ -19,7 +19,9 @@ export default {
     }
   },
   mounted() {
-    this.popper.mount(this.$el)
+    const el = document.getElementById('vuepress-canvas-cursor')
+
+    this.popper.mount(el)
   },
 
   beforeDestroy() {
